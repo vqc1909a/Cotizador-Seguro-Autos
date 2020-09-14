@@ -1,7 +1,8 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 const Header = ({title}) => {
      return (
-          <header className="header py-5" id="header">
+          <header className="header py-4" id="header">
                <div className="container">
                     <div className="row">
                          <div className="col text-center">
@@ -12,5 +13,7 @@ const Header = ({title}) => {
           </header>
      );
 }
- 
+Header.propTypes = {
+     title: PropTypes.string.isRequired
+}
 export default Header;

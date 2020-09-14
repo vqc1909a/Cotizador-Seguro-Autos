@@ -1,0 +1,19 @@
+select{
+     -webkit-appearance: none;
+}
+
+.resultado-enter {
+  transform: translateY(-200%);
+}
+.resultado-enter-active {
+  transform: translateY(0%);
+  transition: transform 1000ms;
+}
+.resultado-exit {
+  transform: translateY(0%);
+}
+
+.resultado-exit-active {
+  transform: translateY(0%);
+  transition: transform 1000ms;
+}
