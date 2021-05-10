@@ -1,0 +1,15 @@
+//!Americano 15%
+
+//!Asiatico 5%
+
+//!Aumento por la marca del automovil
+
+//!Basico aumenta 20% y completo 50%
+
+//!Europeo 30%
+
+//!Obtener la difrenecia de años con respecto a la actualidad
+
+//!Por cada añop hay que restar el 3% del precio base de la actualidad
+
+//!Precio base de la actualidad

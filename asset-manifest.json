@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cotizador-Seguro-Autos/static/css/main.d32facc7.chunk.css",
+    "main.js": "/Cotizador-Seguro-Autos/static/js/main.ce6fec2d.chunk.js",
+    "main.js.map": "/Cotizador-Seguro-Autos/static/js/main.ce6fec2d.chunk.js.map",
+    "runtime-main.js": "/Cotizador-Seguro-Autos/static/js/runtime-main.ee21882d.js",
+    "runtime-main.js.map": "/Cotizador-Seguro-Autos/static/js/runtime-main.ee21882d.js.map",
+    "static/js/2.146d96b2.chunk.js": "/Cotizador-Seguro-Autos/static/js/2.146d96b2.chunk.js",
+    "static/js/2.146d96b2.chunk.js.map": "/Cotizador-Seguro-Autos/static/js/2.146d96b2.chunk.js.map",
+    "index.html": "/Cotizador-Seguro-Autos/index.html",
+    "precache-manifest.32def3a722fba787543efba144d92105.js": "/Cotizador-Seguro-Autos/precache-manifest.32def3a722fba787543efba144d92105.js",
+    "service-worker.js": "/Cotizador-Seguro-Autos/service-worker.js",
+    "static/css/main.d32facc7.chunk.css.map": "/Cotizador-Seguro-Autos/static/css/main.d32facc7.chunk.css.map",
+    "static/js/2.146d96b2.chunk.js.LICENSE.txt": "/Cotizador-Seguro-Autos/static/js/2.146d96b2.chunk.js.LICENSE.txt",
+    "static/js/main.ce6fec2d.chunk.js.LICENSE.txt": "/Cotizador-Seguro-Autos/static/js/main.ce6fec2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee21882d.js",
+    "static/js/2.146d96b2.chunk.js",
+    "static/css/main.d32facc7.chunk.css",
+    "static/js/main.ce6fec2d.chunk.js"
+  ]
+}
