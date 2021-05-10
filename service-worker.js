@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cotizador-Seguro-Autos/precache-manifest.32def3a722fba787543efba144d92105.js"
+  "/Cotizador-Seguro-Autos/precache-manifest.5f7fe74116dd6e5d2286c84286ad9aba.js"
 );
 
 self.addEventListener('message', (event) => {
