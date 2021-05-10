@@ -31,7 +31,7 @@ function App() {
                <div className="container">
                     <div className="row justify-content-center">
                          <div className="col-sm-10 col-md-8">
-                              <Formulario title="Cotizador de Seguros" agregarCotizacion={agregarCotizacion} />
+                              <Formulario title="Cotizador de Seguros de Autos" agregarCotizacion={agregarCotizacion} />
                               <Spinner spinner={spinner} />
                               
                               {!spinner
